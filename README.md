@@ -45,7 +45,7 @@ This section is more about finding the following metrics for a vanilla lambda
 * What's the average processing time for cold/warm containers
 * Analyze the data using pandas
 ```
-git clone git@github.com:natgeo/lambda-coldstart-analysis.git
+git clone git@github.com:rsirimalla/lambda-coldstart-analysis.git
 cd lambda-coldstart-analysis
 npm install
 cd src/benchmark
