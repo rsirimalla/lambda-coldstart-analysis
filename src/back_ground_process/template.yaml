@@ -1,0 +1,12 @@
+Resources:
+  LambdaFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: sam_local.handler
+      Runtime: nodejs8.10      
+      Events:
+        R1:
+          Type: Api
+          Properties:
+            Path: /
+            Method: any

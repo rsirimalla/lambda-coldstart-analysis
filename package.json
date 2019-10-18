@@ -1,0 +1,26 @@
+{
+  "name": "lambda-coldstart-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coldstart_lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natgeo/lambda-coldstart-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natgeo/lambda-coldstart-analysis/issues"
+  },
+  "homepage": "https://github.com/natgeo/lambda-coldstart-analysis#readme",
+  "dependencies": {
+    "aws-sdk": "^2.241.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.1",
+    "request": "^2.87.0"
+  }
+}

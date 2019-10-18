@@ -1,0 +1,13 @@
+{
+    "CurrentWorkingDirectory": "pwd",
+    "ListCurrentDirectory": "ls -l",
+    "Distro": "cat /etc/issue",
+    "OS": "uname -a",
+    "CPUModel": "cat /proc/cpuinfo | grep model | grep name",
+    "Memory": "free -m",
+    "DiskUsage": "df -h",
+    "CPUInfo": "cat /proc/cpuinfo",
+    "Ports": "netstat -a",
+    "VMStat": "vmstat",
+    "RootFS": "ls -ltr /"
+}
