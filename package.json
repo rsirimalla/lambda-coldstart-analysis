@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/natgeo/lambda-coldstart-analysis.git"
+    "url": "git+https://github.com/rsirimalla/lambda-coldstart-analysis.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/natgeo/lambda-coldstart-analysis/issues"
+    "url": "https://github.com/rsirimalla/lambda-coldstart-analysis/issues"
   },
-  "homepage": "https://github.com/natgeo/lambda-coldstart-analysis#readme",
+  "homepage": "https://github.com/rsirimalla/lambda-coldstart-analysis#readme",
   "dependencies": {
     "aws-sdk": "^2.241.1",
     "express": "^4.16.3",
