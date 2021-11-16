@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/rsirimalla/lambda-coldstart-analysis#readme",
   "dependencies": {
-    "aws-sdk": "^2.241.1",
+    "aws-sdk": "^2.814.0",
     "express": "^4.16.3",
     "lodash": "^4.17.13",
     "moment": "^2.22.1",
